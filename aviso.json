@@ -7,5 +7,6 @@
   "botao_texto": "Entendi",
   "botao_link": "",
   "obrigatorio": false,
-  "mostrar_uma_vez": true
+  "mostrar_uma_vez": true,
+  "botao": "Entendi"
 }
