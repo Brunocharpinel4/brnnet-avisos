@@ -1,9 +1,9 @@
 {
   "ativo": true,
-  "id": 5,
+  "id": 6,
   "tipo": "informacao",
-  "titulo": "🔥Bem-vindo à BRNNET🔥04",
-  "mensagem": "O novo sistema de avisos da BRNNET está funcionando.10",
+  "titulo": "🔥Bem-vindo à BRNNET🔥",
+  "mensagem": "🔥O novo sistema de avisos da BRNNET está funcionando.",
   "botao_texto": "Entendi",
   "botao_link": "",
   "obrigatorio": false,
